@@ -1,0 +1,102 @@
+s       18
+d 24/07/201825/07/2018
+v MI                        
+c 1000089110007541100643471001108510011082
+t NON ST SEGMENT ELEVATION MYOCARDIAL INFARC                       ION ISCHAEMIC CORONARY ARTERY DISORDERS                          CORONARY ARTERY DISORDERS                                        ACUTE MYOCARDIAL INFARCTION                                      CARDIAC DISORDERS                                                
+a  11Y21
+s       47
+d 17/08/201818/08/2018
+v ABDOMINAL CRAMPS          
+c 1000008110017947100000811001792610018012
+t ABDOMINAL PAIN                                                   GASTROINTESTINAL AND ABDOMINAL PAINS (EXCL ORAL AND THROAT)      GASTROINTESTINAL SIGNS AND SYMPTOMS                              ABDOMINAL PAIN                                                   GASTROINTESTINAL DISORDERS                                       
+a  32N21
+s       49
+d 06/08/201806/08/2018
+v STOMACH PAIN              
+c 1000008110017947100000811001792610018012
+t ABDOMINAL PAIN                                                   GASTROINTESTINAL AND ABDOMINAL PAINS (EXCL ORAL AND THROAT)      GASTROINTESTINAL SIGNS AND SYMPTOMS                              ABDOMINAL PAIN                                                   GASTROINTESTINAL DISORDERS                                       
+a  32N21
+s       53
+d 24/08/201825/08/2018
+v DIZZY FEELINGS            
+c 1001357310029205100244921002930610029305
+t LIGHTHEADEDNESS                                                  NEUROLOGICAL SIGNS AND SYMPTOMS NEC                              NEUROLOGICAL DISORDERS NEC                                       DIZZINESS                                                        NERVOUS SYSTEM DISORDERS                                         
+a  22N21
+d 05/10/201805/10/2018
+v CARPAL TUNNEL IN LEFT HAND
+c 1000769710029205100076971002791710034606
+t CARPAL TUNNEL SYNDROME                                           MONONEUROPATHIES                                                 PERIPHERAL NEUROPATHIES                                          CARPAL TUNNEL SYNDROME                                           NERVOUS SYSTEM DISORDERS                                         
+a  22N21
+d 26/01/201928/01/2019
+v POUNDING HEART            
+c 1003355710007541100335571000760910007539
+t PALPITATIONS                                                     CARDIAC SIGNS AND SYMPTOMS NEC                                   CARDIAC DISORDER SIGNS AND SYMPTOMS                              PALPITATIONS                                                     CARDIAC DISORDERS                                                
+a  13Y21
+s       54
+d 04/09/201805/09/2018
+v HEART POUNDING            
+c 1003355710007541100335571000760910007539
+t PALPITATIONS                                                     CARDIAC SIGNS AND SYMPTOMS NEC                                   CARDIAC DISORDER SIGNS AND SYMPTOMS                              PALPITATIONS                                                     CARDIAC DISORDERS                                                
+a  12Y21
+d 15/09/201815/09/2018
+v LOOSE STOOL               
+c 1001273510017947100127271001273610017977
+t DIARRHEA                                                         DIARRHOEA (EXCL INFECTIVE)                                       GASTROINTESTINAL MOTILITY AND DEFAECATION CONDITIONS             DIARRHOEA                                                        GASTROINTESTINAL DISORDERS                                       
+a  12N21
+s       55
+d 02/03/201803/03/2018
+v PNEUMONIA                 
+c 1003566410021881100356641002510110021879
+t PNEUMONIA                                                        LOWER RESPIRATORY TRACT AND LUNG INFECTIONS                      INFECTIONS - PATHOGEN UNSPECIFIED                                PNEUMONIA                                                        INFECTIONS AND INFESTATIONS                                      
+a  11N21
+s       66
+d 17/01/201917/01/2019
+v INTESTINAL POLYP          
+c 1005158910017947100515891001798810017934
+t LARGE INTESTINE POLYP                                            BENIGN NEOPLASMS GASTROINTESTINAL (EXCL ORAL CAVITY)             BENIGN NEOPLASMS GASTROINTESTINAL                                LARGE INTESTINE POLYP                                            GASTROINTESTINAL DISORDERS                                       
+a  11N21
+s       74
+d 04/06/201804/06/2018
+v COMMON COLD               
+c 1002881010021881100101061004630910021879
+t COMMON COLD                                                      UPPER RESPIRATORY TRACT INFECTIONS                               INFECTIONS - PATHOGEN UNSPECIFIED                                NASOPHARYNGITIS                                                  INFECTIONS AND INFESTATIONS                                      
+a  33N12
+s       78
+d 04/07/201805/07/2018
+v TIA                       
+c 1004439010029205100438211004437610007963
+t TIA                                                              TRANSIENT CEREBROVASCULAR EVENTS                                 CENTRAL NERVOUS SYSTEM VASCULAR DISORDERS                        TRANSIENT ISCHAEMIC ATTACK                                       NERVOUS SYSTEM DISORDERS                                         
+a  22N21
+s       86
+d 01/06/201801/06/2018
+v CONSTIPATED               
+c 1001077410017947100107741001793310017977
+t CONSTIPATION                                                     GASTROINTESTINAL ATONIC AND HYPOMOTILITY DISORDERS NEC           GASTROINTESTINAL MOTILITY AND DEFAECATION CONDITIONS             CONSTIPATION                                                     GASTROINTESTINAL DISORDERS                                       
+a  21N21
+d 05/03/201905/03/2019
+v BAD NIGHTMARE             
+c 1002941210037175100294141003392010040991
+t NIGHTMARES                                                       PARASOMNIAS                                                      SLEEP DISORDERS AND DISTURBANCES                                 NIGHTMARE                                                        PSYCHIATRIC DISORDERS                                            
+a  12N21
+s       90
+d 07/06/201808/06/2018
+v HEART FLUTTERING          
+c 1004728110007541100472811004728310007521
+t VENTRICULAR ARRHYTHMIA                                           VENTRICULAR ARRHYTHMIAS AND CARDIAC ARREST                       CARDIAC ARRHYTHMIAS                                              VENTRICULAR ARRHYTHMIA                                           CARDIAC DISORDERS                                                
+a  21Y21
+d 05/07/201805/07/2018
+v BAD NIGHTMARE             
+c 1002941210037175100294141003392010040991
+t NIGHTMARES                                                       PARASOMNIAS                                                      SLEEP DISORDERS AND DISTURBANCES                                 NIGHTMARE                                                        PSYCHIATRIC DISORDERS                                            
+a  12N21
+s      102
+d 11/05/201811/05/2018
+v PASSING GAS               
+c 1001676610017947100177351001677010018012
+t GAS                                                              FLATULENCE, BLOATING AND DISTENSION                              GASTROINTESTINAL SIGNS AND SYMPTOMS                              FLATULENCE                                                       GASTROINTESTINAL DISORDERS                                       
+a  22N21
+d 13/05/201814/05/2018
+v IRRITABLE BOWEL SYNDROME  
+c 1002300310017947100230031001800610017977
+t IRRITABLE BOWEL SYNDROME                                         GASTROINTESTINAL SPASTIC AND HYPERMOTILITY DISORDERS             GASTROINTESTINAL MOTILITY AND DEFAECATION CONDITIONS             IRRITABLE BOWEL SYNDROME                                         GASTROINTESTINAL DISORDERS                                       
+a  11N21
