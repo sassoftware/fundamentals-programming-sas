@@ -2,10 +2,7 @@
  
 <a href="https://gitlab.sas.com/Emily.Scheviak-Livesay/fundamentals-prog-sas/blob/master/Example_Cover.jpg"><img src='fundamentals_cover.jpg' align= 'right'/></a>
  
-
 <div style="text-align:right" markdown="1">
-
-
 
 By James Blum and Jonathan Duggins
 
@@ -13,9 +10,9 @@ By James Blum and Jonathan Duggins
  
 This repository contains the sample code for the book <i>Fundamentals of Programming in SAS: A Case Studies Approach</i>. All examples are in the form of file types SAS data sets, .csv, .xlsx, and .txt.
 
-
 ## Description
 <b>Unlock the essentials of SAS programming!</b><br>
+
 <i>Fundamentals of Programming in SAS: A Case Studies Approach</i> gives a complete introduction to SAS programming. Perfect for students, novice SAS users, and programmers studying for their Base SAS certification, this book covers all the basics, including:
 <ul>
 <li>working with data
@@ -26,7 +23,6 @@ This repository contains the sample code for the book <i>Fundamentals of Program
 Experienced programmers know that real-world scenarios require practical solutions. Designed for use in the classroom and for self-guided learners, this book takes a novel approach to learning SAS programming by following a single case study throughout the text and circling back to previous concepts to reinforce material. Readers will benefit from the variety of exercises, including both multiple choice questions and in-depth case studies. Additional case studies are also provided online for extra practice. This approach mirrors the way good SAS programmers develop their skills—through hands-on work with an eye toward developing the knowledge necessary to tackle more difficult tasks. After reading this book, you will gain the skills and confidence to take on larger challenges with the power of SAS.
 
 ## Details
-
 
 *Epub* ISBN: 978-1-63526-669-6 <br>
 *Kindle* ISBN: 978-1-63526-670-2 <br>
@@ -43,6 +39,4 @@ About the Authors<br>
 
 
 ## License
-
-
 This project is licensed under the [Apache 2.0 License](./LICENSE).
